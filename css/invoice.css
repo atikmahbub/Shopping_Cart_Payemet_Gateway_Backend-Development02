@@ -1,0 +1,21 @@
+.upper{
+	display: flex;
+	justify-content: space-around;
+}
+
+h2{
+
+	text-align: center;
+	font-weight: 900;
+}
+
+.ammount{
+	text-align: right;
+	font-weight: 900;
+	font-size: 25px;
+}
+
+body{
+	margin padding: 0;
+	
+}

@@ -1,0 +1,91 @@
+.input101 {
+
+  font-family: Ubuntu-Bold;
+  font-size: 15px;
+  line-height: 1.2;
+  margin : 10px;
+  width: 50%;
+  height: 55px;
+  background: #ebebeb;
+  border-radius: 2px;
+  border: 1px black;
+  padding: 0 35px 0 35px;
+}
+
+.login-101{
+  display: block;
+  margin-left: 10px;
+}
+
+.saleInput{
+  font-family: Ubuntu-Bold;
+  font-size: 15px;
+  color: #1b3815;
+  display: block;
+  width: 50%;
+  height: 40px;
+  background: #ebebeb;
+  border-radius: 7px;
+  padding: 10px;
+  align-items: right;
+  background: #f0f0f5;
+  border: 1px black;
+  width: 70%;
+}
+
+.tick{
+  font-size: 18px;
+  border: none;
+  background: white
+}
+
+#total{
+    font-family: Ubuntu-Bold;
+  font-size: 15px;
+  color: #1b3815;
+  display: block;
+  width: 50%;
+  height: 40px;
+  background: #ebebeb;
+  border-radius: 7px;
+  padding: 10px;
+  align-items: right;
+  background: #f0f0f5;
+  border: 1px black;
+  width: 100%;
+}
+
+.menu{
+  font-family: Ubuntu-Bold;
+  font-weight: 900;
+  font-size: 18px;
+  color: #1b3815;
+  display: block;
+  height: 40px;
+  background: white;
+  padding: 10px;
+  text-align: right;
+  border: 1px black;
+  width: 70%;
+}
+#showAmmount {
+  width: 50%;
+  text-align: right;
+  float: right;
+  margin-right: 5px;
+  background: none;
+  border: 1px black;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Ubuntu-Bold;
+   color: #1b3815;
+}
+
+.level{
+  border: 1px black;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Ubuntu-Bold;
+  color: #1b3815;
+}
+
